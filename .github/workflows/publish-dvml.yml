@@ -1,4 +1,4 @@
-name: Publish WK03 to DVML
+name: Publish WK04 to DVML
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - "pre-class"
 
 env:
-  REPO: WK03
+  REPO: WK04
 
 jobs:
   build:
